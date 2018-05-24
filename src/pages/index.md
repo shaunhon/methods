@@ -1,13 +1,10 @@
 ---
 templateKey: 'home-page'
-title: Methods Investments
+title: Methods
 meta_title: Home | Methods Investments
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
-heading: First Section
+Cryptocurrency portfolio management should be easy. Now it is.
+heading: How management with Methods work
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...

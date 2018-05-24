@@ -5,7 +5,7 @@ import React, {Component} from 'react'
 import favicon from './img/favicon.ico'
 
 let inlinedStyles = ''
-if (process.env.NODE_ENV === 'production1') {
+if (process.env.NODE_ENV === 'production') {
   try {
     /* eslint import/no-webpack-loader-syntax: off */
     inlinedStyles = require('!raw-loader!../public/styles.css')
@@ -18,7 +18,7 @@ if (process.env.NODE_ENV === 'production1') {
 export default class HTML extends Component {
   render () {
     let css
-    if (process.env.NODE_ENV === 'production1') {
+    if (process.env.NODE_ENV === 'production') {
       css = (
         <style
           id='gatsby-inlined-css'
