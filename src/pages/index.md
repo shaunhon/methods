@@ -7,7 +7,7 @@ meta_description: >-
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-heading: How Portfolio Management with Methods work
+heading: How Intelligent Portfolio Management with Methods Work
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
@@ -56,12 +56,10 @@ offerings:
         In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
         risus.
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Shaun Hon
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
-  - author: Subarashi San
+      You mean I don't have to lift a finger?! Take my money!
+  - author: Simon Lee
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      1% service charges? What a rip off.
 ---
