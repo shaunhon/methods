@@ -1,15 +1,16 @@
 ---
 templateKey: 'home-page'
 title: Methods
-meta_title: Home | Methods Investments
+meta_title: Home | Methods Investment
 meta_description: >-
-Cryptocurrency portfolio management should be easy. Now it is.
-heading: How management with Methods work
+  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
+  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
+  consectetur purus sit amet fermentum.
+heading: How Portfolio Management with Methods work
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
-
-
 offerings:
   blurbs:
     - image: /img/coffee.png
